@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+# Data_Analysis_Projects
 
 Here you'll find most of the EDA projects that I've done
 
